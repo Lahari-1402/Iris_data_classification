@@ -176,42 +176,6 @@ Virginica
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/iris-flower-classification.git
-cd iris-flower-classification
-```
-
-Install required libraries:
-
-```bash
-pip install numpy pandas seaborn tensorflow
-```
-
----
-
-## ▶️ Run the Project
-
-```bash
-python iris_classification.py
-```
-
----
-
-## 📁 Project Structure
-
-```text
-iris-flower-classification/
-│
-├── iris_classification.py
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## 🔮 Future Enhancements
 
