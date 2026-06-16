@@ -198,6 +198,6 @@ The Deep Learning model successfully learns the patterns in the Iris dataset and
 
 ## 👨‍💻 Author
 
-**Grandhi Lahari**
+**Lahari Grandhi**
 
 If you found this project useful, feel free to ⭐ the repository.
